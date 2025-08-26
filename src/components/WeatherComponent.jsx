@@ -90,7 +90,7 @@ class WeatherComponent extends Component {
             {/* Header + Theme Toggle */}
             <div className="flex justify-between items-center mb-6">
               <h1 className="text-3xl text-center mx-auto font-bold">
-                Weather App
+                WeatherX
               </h1>
               <button
                 onClick={this.toggleTheme}
