@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-Backend-green?logo=springboot" />
   <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Framer--Motion-Animations-FF69B4?logo=framer" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 </p>  
 
 ---
